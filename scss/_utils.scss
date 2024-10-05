@@ -1,0 +1,10 @@
+.container {
+    max-width: calc(var(--container-width) + 15px * 2);
+
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.accent-color {
+    color: var(--accent-color);
+}

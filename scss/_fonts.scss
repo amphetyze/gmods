@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('../fonts/AtypDisplay-Regular.eot');
+    src: local('Atyp Display'), local('AtypDisplay-Regular'),
+        url('../fonts/AtypDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AtypDisplay-Regular.woff2') format('woff2'),
+        url('../fonts/AtypDisplay-Regular.woff') format('woff'),
+        url('../fonts/AtypDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('../fonts/AtypDisplay-Medium.eot');
+    src: local('Atyp Display Medium'), local('AtypDisplay-Medium'),
+        url('../fonts/AtypDisplay-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AtypDisplay-Medium.woff2') format('woff2'),
+        url('../fonts/AtypDisplay-Medium.woff') format('woff'),
+        url('../fonts/AtypDisplay-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Atyp Display';
+    src: url('../fonts/AtypDisplay-Semibold.eot');
+    src: local('Atyp Display Semibold'), local('AtypDisplay-Semibold'),
+        url('../fonts/AtypDisplay-Semibold.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/AtypDisplay-Semibold.woff2') format('woff2'),
+        url('../fonts/AtypDisplay-Semibold.woff') format('woff'),
+        url('../fonts/AtypDisplay-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
